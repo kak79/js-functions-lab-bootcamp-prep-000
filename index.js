@@ -10,7 +10,8 @@ function happyHolidaysTo(string){
   if console.log(`Happy holidays, ${name}!`)
   }
   var name = "everyone";{
-  else console.log(`h)
+  else console.log(`Happy holidays, ${name}!`)
+  }
     
   }
 }
