@@ -4,11 +4,8 @@ function happyHolidays(string){
   return "Happy holidays!"
 }
 
-var name = 
+var name = "you"
 
 function happyHolidaysTo(string){
   console.log(`Happy holidays, ${name}!`)
 }
-if name === you
-
-else name === everyone
